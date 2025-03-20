@@ -1,4 +1,4 @@
-# chloropleth-map-revisited
+# choropleth-map-revisited
 This is a revisit of a previous project: https://github.com/Dference/Project-3-Healthcare
 - In that project, deaths were sorted into all, natural, chronic, and non-chronic categories. This revisit resorts the data to highlight COVID deaths. That being said, no matter how the data is summed up, the numbers never add up to the "All Cause" column in the original dataset. There is no indication in the documentation why this is.
 - In the original project, much of the calculations were done within the js file. Those calculations will be computed in a python file instead. This makes the js file much simpler
