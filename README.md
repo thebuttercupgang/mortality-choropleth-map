@@ -5,3 +5,7 @@ This is a revisit of a previous project: https://github.com/Dference/Project-3-H
 - In this revisit, population data was added to the calculations. For each year, the choropleth map displays each state's number of COVID-19 (U071, Underlying Cause of Death) as a proportion of population rather than a proportion of deaths by all causes. Again, this is because the sums of the numbers never add up to the "All Cause" column in the dataset.
 - I would like to eventually add buttons to choose not only the year, but also cause of death so users know what the colors on the map indicate
 - All code here is written by me.
+
+## Medical Costs Visualizations (IN PROGRESS)
+- https://public.tableau.com/app/profile/shareen.rahmathulla/viz/MedicalCostsbyRegion/Sheet1
+- 
