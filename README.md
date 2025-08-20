@@ -7,5 +7,5 @@ This is a revisit of a previous project: https://github.com/Dference/Project-3-H
 - All code here is written by me.
 
 ## Medical Costs Visualizations (IN PROGRESS)
-- https://public.tableau.com/app/profile/shareen.rahmathulla/viz/MedicalCostsbyRegion/Sheet1
+- [https://public.tableau.com/app/profile/shareen.rahmathulla/viz/MedicalCostsbyRegion/Story1](https://public.tableau.com/app/profile/shareen.rahmathulla/viz/MedicalCostsbyRegion/Story1)
 - 
