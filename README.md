@@ -1,4 +1,13 @@
 # choropleth-map-revisited
+## Purpose
+The aim of this project is to identify trends in healthcare outcomes. This project will look at the relationship between healthcare costs and death rates across the United States to find any correlation apparent that could show the following:
+
+- Do higher mortality rates due to higher chronic illness lead to an increase in healthcare costs by region?
+- Do higher healthcare costs create a higher mortality rate?
+- What are the most cost friendly states to live in when it comes to healthcare?
+- What states have consistently had higher mortality rates?
+
+## NOTE
 This is a revisit of a previous project: https://github.com/Dference/Project-3-Healthcare
 - In that project, deaths were sorted into all, natural, chronic, and non-chronic categories. This revisit resorts the data to highlight COVID deaths. That being said, no matter how the data is summed up, the numbers never add up to the "All Cause" column in the original dataset. There is no indication in the documentation why this is.
 - In the original project, much of the calculations were done within the js file. Those calculations will be computed in a python file instead. This makes the js file much simpler
@@ -6,6 +15,22 @@ This is a revisit of a previous project: https://github.com/Dference/Project-3-H
 - I would like to eventually add buttons to choose not only the year, but also cause of death so users know what the colors on the map indicate
 - All code here is written by me.
 
+## Conclusions
+
+
 ## Medical Costs Visualizations (IN PROGRESS)
+Full Story available to view on Tableau Public:
 - [https://public.tableau.com/app/profile/shareen.rahmathulla/viz/MedicalCostsbyRegion/Story1](https://public.tableau.com/app/profile/shareen.rahmathulla/viz/MedicalCostsbyRegion/Story1)
-- 
+### Data Summary
+- The Southeast has the highest mean insurance charges, though the Northeast has the highest median insurance costs
+- Smokers have signficantly higher insurance costs compared to non-smokers
+- The Southeast and Northeast have a higher percentage of smokers compared to the Southwest and Northwest
+
+
+
+## Source References
+- “US Health Insurance Dataset” published by Anirban Datta, last updated 2020
+    - https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset/data
+- “Weekly Provisional Counts of Deaths by State and Select Causes, 2020-2023” published by NCHS, last updated September 27, 2023
+    - https://data.cdc.gov/NCHS/Weekly-Provisional-Counts-of-Deaths-by-State-and-S/muzy-jte6/about_data
+https://data.cdc.gov/resource/muzy-jte6.json
