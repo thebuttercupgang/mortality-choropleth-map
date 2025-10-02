@@ -2,10 +2,11 @@
 ## Purpose
 The aim of this project is to identify trends in healthcare outcomes. This project will look at the relationship between healthcare costs and death rates across the United States to find any correlation apparent that could show the following:
 
-- Do higher mortality rates due to higher chronic illness lead to an increase in healthcare costs by region?
-- Do higher healthcare costs create a higher mortality rate?
+- Is there a positive correlation between insurance charges and mortality rates?
+- Do higher mortality rates due COVID-19 correlate to an increase in healthcare costs by region?
 - What are the most cost friendly states to live in when it comes to healthcare?
 - What states have consistently had higher mortality rates?
+
 
 ## NOTE
 This is a revisit of a previous project: https://github.com/Dference/Project-3-Healthcare
@@ -16,6 +17,9 @@ This is a revisit of a previous project: https://github.com/Dference/Project-3-H
 - All code here is written by me.
 
 ## Conclusions
+- West Virginia, Alabama, Kentucky, Mississippi, and Tennessee appear at least twice in the top 5 states with the largest proportion of COVID-19 deaths
+- These states are all considered part of the Southeastern United States, which is coincidentally also where insurance charges tend to be higher
+- However, there is no documentation in the insurance charges dataset indicating which specific states are considered the Southeast
 
 
 ## Medical Costs Visualizations (IN PROGRESS)
